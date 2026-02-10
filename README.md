@@ -99,3 +99,17 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 *   Create a `LICENSE` file in the root of your project if you haven't already. A common choice is the MIT license.
 *   As you develop, you might add badges for build status, version, etc.
 *   If you implement a specific backend (e.g., Firebase, Supabase) or integrate specific APIs, update the "Tech Stack" and "Features" accordingly.
+
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](/screenshots/ss1.jpeg)
+
+### Add Plant
+![Add Plant](/screenshots/ss2.jpeg)
+
+### Care Reminders
+![Care Reminders](/screenshots/ss3.jpeg)
+
+### Disease Detection
+![Disease Detection](/screenshots/ss4.jpeg)
