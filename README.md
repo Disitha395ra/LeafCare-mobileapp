@@ -102,14 +102,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home Screen](/screenshots/ss1.jpeg)
+<p align="center">
+  <img src="ss1.jpeg" width="180" />
+  <img src="ss2.jpeg" width="180" />
+  <img src="ss3.jpeg" width="180" />
+  <img src="ss4.jpeg" width="180" />
+</p>
 
-### Add Plant
-![Add Plant](/screenshots/ss2.jpeg)
-
-### Care Reminders
-![Care Reminders](/screenshots/ss3.jpeg)
-
-### Disease Detection
-![Disease Detection](/screenshots/ss4.jpeg)
