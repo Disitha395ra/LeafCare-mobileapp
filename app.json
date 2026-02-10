@@ -21,7 +21,11 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.disitha.agroai"
+      "package": "com.disitha.agroai",
+      "permissions": [
+        "CAMERA",
+        "INTERNET"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
