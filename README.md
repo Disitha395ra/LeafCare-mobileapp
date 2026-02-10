@@ -1,7 +1,3 @@
-Here's a clean and professional `README.md` for your `LeafCare-mobileapp` project, assuming it's a plant care application built with JavaScript (likely React Native/Expo).
-
----
-
 # LeafCare Mobile Application
 
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/LeafCare-mobileapp?style=social)](https://github.com/YOUR_GITHUB_USERNAME/LeafCare-mobileapp/stargazers)
